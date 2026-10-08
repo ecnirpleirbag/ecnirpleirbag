@@ -1,36 +1,38 @@
-# 👋 Hi there, I'm Gabriel Prince D
+# 👋 Hi, I'm Gabriel Prince D
 
-🎓 Master's Student in Computer Science & Engineering  
-💻 Software Developer Intern | ML Enthusiast   
-📍 India | 🚀 Always learning and building
+💻 **Software Developer** | C++ • Python • Java  
+🎓 Master's in Computer Science & Engineering — **SSN College of Engineering**  
+📍 Chennai, India
 
----
+I'm a Software Developer with experience in **Backend, QA, Linux, networking, infrastructure, and automation**. Currently focusing on **Java, Spring Boot, backend development, and cloud technologies**.
 
 ### 🛠️ Tech Stack
-- Python, C++, OpenCV 
-- HTML, CSS  
-- Flutter, Dart, Firebase    
-- Git & GitHub  
-- Cloud (Learning & Experimenting GCP)
----
 
-### 📘 Projects Highlights
-- 📱 **Bill Podu App** – Invoice management using Flutter  
-- 🎬 **Personalized Video Summay** – Generate video summary for the given videos (Educational Videos)
-- 📺 **Netflix Clone** – UI built in HTML & CSS  
+**Languages:** C++ • Python • Java • SQL • Dart • JavaScript  
+**Development:** Spring Boot • FastAPI • Flutter • Firebase  
+**AI/ML:** OpenCV • PyTorch • Hugging Face • Whisper  
+**Tools & Infrastructure:** Git • GitHub • Docker • Linux • Proxmox • VMware • NetApp
 
----
+### 🚀 Featured Projects
 
-### 💡 Currently Working On
-- An IoT-based health monitoring system using ESP32 & Ardiuno UNO (Research work)  
+- 📄 **[Smart PDF Chatbot](https://github.com/ecnirpleirbag)** — AI-powered PDF Q&A using FastAPI, Sentence Transformers & ChromaDB
+- 🎬 **Personalized Video Summarization** — Educational video summarization using Python, OpenCV & AI
+- ❤️ **IoT Health Monitoring** — ESP32-based health monitoring and PTT-based BP estimation
+- 🧾 **Bill Podu** — Invoice management app built with Flutter & Firebase
 
----
+### 💼 Experience
 
-### 📫 Reach Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/gabriel-prince-236303203 )
-- 📧 gabrielprince.work@gmail.com
-- 🐙 [GitHub](https://github.com/ecnirpleirbag)
-- 🌐 [Personal Website](https://ecnirpleirbag.github.io/Portfolio/)
----
+**Alcatel-Lucent Enterprise** — Software Development / Infrastructure / QA
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+- C++ development & integration testing
+- Enterprise networking & Linux environments
+- Proxmox, VMware & NetApp infrastructure
+- Shell scripting & automation
+- OXE / OmniPCX QA and troubleshooting
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-prince-236303203) •
+[Portfolio](https://ecnirpleirbag.github.io/Portfolio/) •
+[GitHub](https://github.com/ecnirpleirbag) •
+**gabrielprince.work@gmail.com**
